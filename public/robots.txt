@@ -1,0 +1,9 @@
+# robots.txt — Gabriela Garcia Villalobos Portfolio
+# Reemplaza https://tudominio.com con tu dominio real
+
+User-agent: *
+Allow: /
+Disallow: /src/
+
+# Sitemap
+Sitemap: https://gabriela-garcia-villalobos-dev.netlify.app/sitemap.xml
