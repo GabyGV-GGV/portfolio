@@ -1,0 +1,17 @@
+export const skillIcons = [
+  { name: 'HTML5', icon: 'SiHtml5', color: '#E34F26' },
+  { name: 'CSS3', icon: 'SiCss3', color: '#1572B6' },
+  { name: 'JavaScript', icon: 'SiJavascript', color: '#F7DF1E' },
+  { name: 'TypeScript', icon: 'SiTypescript', color: '#3178C6' },
+  { name: 'React JS', icon: 'SiReact', color: '#61DAFB' },
+  { name: 'React Native', icon: 'SiReact', color: '#61DAFB' },
+  { name: 'Next.js', icon: 'SiNextdotjs', color: '#000000' },
+  { name: 'Node JS', icon: 'SiNodedotjs', color: '#339933' },
+  { name: 'Express.js', icon: 'SiExpress', color: '#888888' },
+  { name: 'Flutter', icon: 'SiFlutter', color: '#02569B' },
+  { name: 'Dart', icon: 'SiDart', color: '#0175C2' },
+  { name: 'Firebase', icon: 'SiFirebase', color: '#FFCA28' },
+  { name: 'MongoDB', icon: 'SiMongodb', color: '#47A248' },
+  { name: 'Expo', icon: 'SiExpo', color: '#000020' },
+  { name: 'Git', icon: 'SiGit', color: '#F05032' },
+]
