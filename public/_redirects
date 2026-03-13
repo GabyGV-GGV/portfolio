@@ -1,0 +1,4 @@
+# Redirecciones personalizadas para Netlify
+
+# Asegurar que todos los archivos estáticos sean accesibles
+/* /index.html 200
