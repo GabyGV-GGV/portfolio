@@ -20,6 +20,7 @@ export const projects = [
     urls: [
       '/src/assets/proyectos/caredriver_1.webp'
     ],
+    url: 'https://play.google.com/store/apps/details?id=com.caredriver.app',
   },
 
   {
@@ -66,11 +67,12 @@ export const projects = [
       '/src/assets/proyectos/dominio_2.webp',
       '/src/assets/proyectos/dominio_3.webp'
     ],
+    url: 'https://dominiobolivia.com/',
   },
 
   {
     id: 4,
-    name: 'Fsociety',
+    name: 'Fsociety Gaming',
     subtitle: 'Plataforma de Torneos de Videojuegos',
     role: 'Safa Software',
     year: '2024',
@@ -88,11 +90,12 @@ export const projects = [
       '/src/assets/proyectos/fsociety_1.webp',
       '/src/assets/proyectos/fsociety_2.webp'
     ],
+    url: 'https://fsocietygaming.com/',
   },
 
   {
     id: 5,
-    name: 'TARJETAX',
+    name: 'TARJETAGS',
     subtitle: 'Plataforma de Tarjetas Virtuales',
     role: 'Safa Software',
     year: '2024',
@@ -105,10 +108,11 @@ export const projects = [
     ],
     gradient: 'linear-gradient(135deg, #2c003e 0%, #512da8 50%, #7b1fa2 100%)',
     accent: '#ce93d8',
-    letter: 'TX',
+    letter: 'TG',
     urls: [
       '/src/assets/proyectos/tarjetag_1.webp',
       '/src/assets/proyectos/tarjetag_2.webp'
     ],
+    url: 'https://tarjetag.com/',
   },
 ]
