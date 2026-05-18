@@ -3,7 +3,7 @@ import { useTheme } from '../context/ThemeContext'
 import { useLang } from '../context/LanguageContext'
 import { HiDownload } from 'react-icons/hi'
 import logoImg from '../assets/logo.png'
-import fotoImg from '../assets/proyectos/foto.webp'
+import fotoImg from '../assets/proyectos/foto.jpeg'
 import { motion } from 'framer-motion'
 
 export default function About() {
@@ -32,7 +32,6 @@ export default function About() {
       style={{ background: 'var(--bg-secondary)' }}
     >
       <div ref={sectionRef} className="max-w-5xl mx-auto section-animate">
-        {/* Badge */}
         <div className="flex justify-center mb-10">
           <span
             className="inline-flex items-center gap-2 text-xs font-bold tracking-widest px-4 py-1.5 rounded-full"
